@@ -1,0 +1,6 @@
+node_modules/
+dist/
+data/*.xlsx
+data/*.tmp
+.~lock.*
+.playwright-mcp/
